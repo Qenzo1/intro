@@ -1,0 +1,26 @@
+body {
+    background-color: firebrick;
+    background-image: url(husky.png);
+}
+
+h1 {
+    font-size: 25px;
+    font-family: product-sans, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: product-sans, sans-serif;
+    color: white;
+}
+
+.container {
+    background-color: tomato;
+    border-radius: .2rem;
+}
+
+.container2 {
+    background-color: lightcoral;
+    border-radius: .2rem;
+}
